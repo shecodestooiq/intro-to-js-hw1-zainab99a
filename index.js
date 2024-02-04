@@ -1,11 +1,11 @@
-//task 1
+
 var myName="Zainab"
 var myAge=24
 var isStudent=true
 var variableToCheck=false
 var name="Zainab"
 var greeting="Hello"
-
+//task 1
 console.log("My name is ",myName)
 console.log("My age is ",myAge)
 console.log("I'm student in SCT ",isStudent)
